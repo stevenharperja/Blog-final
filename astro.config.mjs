@@ -37,7 +37,7 @@ export default defineConfig({
       name: 'awesome blog',
       icon: './public/favicon.svg',
       lang: 'en-US',
-      short_name: 'awesome',
+      short_name: 'yajguide',
       description: "This is the description about your awesome blog",
       theme_color: '#ef4444',
       background_color: '#ef4444',

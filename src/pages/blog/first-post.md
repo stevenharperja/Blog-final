@@ -1,11 +1,32 @@
 ---
 layout: "../../layouts/BlogPost.astro"
-title: "First post"
-description: "Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus"
-pubDate: "Jul 08 2022"
+title: "Learning Resources"
+description: "Links to various learning resources"
+pubDate: "Dec 08 2023"
 heroImage: "/placeholder-hero.jpg"
 tags: ["general", "resources", "introduction"]
+
+
 ---
+There's lists upon lists:
+<br><br>
+<!-- I really dont like these <br> tags but putting a for loop in a .md is not possible apparently. and if i change it to .astro i have to rewrite the template, so im just going to use the <br> tags 😞 -->
+
+<!-- 
+format
+[link]
+[description about that link] 
+<br><br>
+-->
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+ - asdad.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
 
