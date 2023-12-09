@@ -4,7 +4,6 @@ title: "First post"
 description: "Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus"
 pubDate: "Jul 08 2022"
 heroImage: "/placeholder-hero.jpg"
-minutes: 5
 tags: ["general", "resources", "introduction"]
 ---
 

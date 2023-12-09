@@ -4,6 +4,7 @@ title: "Third post"
 description: "Tempus quam pellentesque nec nam aliquam sem."
 pubDate: "Jul 15 2022"
 heroImage: "/placeholder-hero.jpg"
+minutes: 5
 tags: ["general", "resources", "introduction"]
 ---
 
