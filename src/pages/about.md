@@ -9,7 +9,7 @@ updatedDate: "Dec 09 2023"
 
 in 2017 I was in my Junior year of highschool and decided I wanted to learn a language. I chose Japanese because I liked anime and video games so I had been exposed to it a little before. Originally I started on the new (for the time) Duolingo course on Japanese. I soon realized I wouldn't learn much from it, as Duolingo is good for practice, not learning. I searched for resources and found the [DJT](https://djtguide.neocities.org/) and started on [Namasense's Japanese Lessons](https://www.youtube.com/playlist?list=PL9987A659670D60E0) on youtube.
 <br><br>
-After studying on my own using that and using the [Core2k/6k deck](https://djtguide.neocities.org/anki) (its good but also really out of date with its vocab), I took 2 years of classes in college.<br>
+After studying on my own using that and using the [Core2k/6k deck](https://ankiweb.net/shared/info/1880390099) (its good but also really out of date with its vocab), I took 2 years of classes in college.<br>
 After finishing those classes in 2020, I was at about an N4 level (I've never taken the test.) I couldn't have conversations and could only read a little.
 From there, I started reading manga I enjoyed, particularly Yotsubato and Shimeji Simulation. But I didnt study consistently afterward. I had other things going on in my life. 
 <br><br>
